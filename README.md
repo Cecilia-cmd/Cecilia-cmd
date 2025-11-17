@@ -4,8 +4,8 @@ I'm a lifelong learner, always curious about new concepts in data and technology
 
 I'm a computational biologist transitioning into the world of data science, passionate about solving real-world problems with data and analytics.  
 
-- 🎓 **MSc Candidate:** Computational Biology (graduating Sept 2025)  
-- 💻 **Focus:** Data Science, Machine Learning, and Analytics  
+- 🎓 **MSc Graduate:** Computational Biology 
+- 💻 **Focus:** Data Analysis, Machine Learning, and Data Science
 - 🔎 **Interests:** Data-driven decision making, AI applications, industrial optimisation  
 - 🔗 **LinkedIn:** [linkedin.com/in/torres-cecilia](https://www.linkedin.com/in/torres-cecilia/)  
 
